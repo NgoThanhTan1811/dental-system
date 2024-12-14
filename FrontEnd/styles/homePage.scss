@@ -1,0 +1,18 @@
+.welcome {
+  max-height: 100vh;
+  margin-top: 65px;
+  .main {
+    .title {
+      font-size: 50px;
+      font-weight: bold;
+    }
+    .doctor {
+      box-shadow: 0px 9px 42px 0 rgb(0 0 0 / 0.08);
+      border-radius: 10px;
+      img {
+        width: 43px;
+        height: 43px;
+      }
+    }
+  }
+}
