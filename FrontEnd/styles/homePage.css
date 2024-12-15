@@ -14,3 +14,11 @@
   width: 43px;
   height: 43px;
 }
+
+.top-services {
+  background-color: #e6f6fe;
+}
+.top-services .service-card {
+  background-color: #fff;
+  border-radius: 10px;
+}
