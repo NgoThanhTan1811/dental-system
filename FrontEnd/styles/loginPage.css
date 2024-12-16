@@ -1,0 +1,31 @@
+.login-page {
+  height: 100vh;
+}
+.login-page .main {
+  height: 90%;
+}
+.login-page .main .img-login {
+  height: 100%;
+}
+.login-page .main .img-login img {
+  height: 95%;
+  width: auto;
+}
+.login-page .main .login .title {
+  font-size: 40px;
+  font-weight: bold;
+}
+.login-page .main .login .input-login .input-email,
+.login-page .main .login .input-login .input-password {
+  border: 1px solid #cecece;
+  border-radius: 10px;
+}
+.login-page .main .login .input-login .input-email i,
+.login-page .main .login .input-login .input-password i {
+  color: #cecece;
+}
+.login-page .main .login .input-login .input-email input,
+.login-page .main .login .input-login .input-password input {
+  all: unset;
+  width: 100%;
+}
